@@ -29,6 +29,8 @@ The data is published under the following headings:
 
 **Loans**; the number of loans of that type, made at the defined library in the defined month
 
+The data is from April 2015 through to the current month and should be updated monthly.
+
 ## Missing Data
 Due to changes in the library management system, data with this level of detail is not available for November and December 2017.
 
