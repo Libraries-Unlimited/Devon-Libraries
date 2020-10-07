@@ -1,8 +1,8 @@
 # Library Loans
-This folder contains data regarding Devon Libraries loans. The data is published in line with [open data schema for library open data](https://schema.librarydata.uk/loans).
+This folder contains data regarding Devon Libraries loans. The data is published in line with the [open data schema for library open data](https://schema.librarydata.uk/loans).
 
 ## Definition
-A loan is the issuing of an item of stock to a member of the library service. A renewal of an item already on loan is counted as an additional loan. This data currently only contain physical issues
+A loan is the issuing of an item of stock to a member of the library service. This data currently only contain physical issues.
 
 ## Data
 The data is published under the following headings:
